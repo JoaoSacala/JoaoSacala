@@ -1,7 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+João+Sacala;Sou+um+Desenvolvedor+de+Software;)](https://git.io/typing-svg)
 
 ## 👨‍💻 Sobre Mim
-Olá! Sou Erivaldo Cazinga, desenvolvedor de software focado em construir aplicações modernas e escaláveis. Tenho experiência com React.js, React Native, Node.js com Prisma e Next.js. Sou apaixonado por tecnologia, sempre buscando aprender mais e contribuir com projetos desafiadores e inovadores.
+
+Olá! Sou **João Sacala**, desenvolvedor de software e empreendedor. Tenho experiência com **React.js**, **React Native**, **Node.js com Prisma** e **Next.js**, criando aplicações modernas, escaláveis e de alta performance.
+
+Sou **cofundador da Sacalinha Burguer**, onde além de atuar na gestão do negócio, **lidero a área de Desenvolvimento e Tecnologia da Informação (TI)**. Montei uma equipe dedicada para cuidar de soluções digitais, automação de processos e inovação tecnológica, garantindo que a operação da empresa acompanhe as melhores práticas do mercado.
+
+Estou sempre em busca de novos desafios, aprendizados e formas de unir tecnologia e empreendedorismo para gerar impacto real.
+
 
 ### Habilidades de Frontend
 <p align="left">
